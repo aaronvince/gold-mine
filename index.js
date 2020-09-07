@@ -25,7 +25,7 @@ const resetLogFile = logFile => {
 /**
  * Given a mine, a name, and a logFile, runs the miner through the mine.
  *
- * @param  {array} mine - A n x m multidimensional array respresenting the mine.
+ * @param  {array} mine - A n x m multidimensional array representing the mine.
  * @param  {string} name - The name of the mine.
  *
  * @return {number} The score achieved in the mine.
